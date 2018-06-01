@@ -49,6 +49,15 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
         private void cadastrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Cadastrar cadastrar = new Cadastrar();
+            cadastrar.BackColor = Color.FromArgb(169, 169, 169);
+            cadastrar.atualiza();
+            cadastrar.ShowDialog();
+        }
+        private void alterarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Cadastrar cadastrar = new Cadastrar();
+            cadastrar.BackColor = Color.FromArgb(180, 180, 180);
+            cadastrar.atualiza();
             cadastrar.ShowDialog();
         }
         private void cadastrar_produto_Click(object sender, EventArgs e)
@@ -76,6 +85,6 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
 
         }
 
-        
+    
     }
 }

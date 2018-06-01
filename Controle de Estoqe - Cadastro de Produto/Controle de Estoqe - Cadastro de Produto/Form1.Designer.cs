@@ -42,9 +42,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.label_Ret_add = new System.Windows.Forms.Label();
-            this.MinReposi_box = new System.Windows.Forms.TextBox();
             this.Quantidade_box = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.PrecoUni_box = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -58,6 +56,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.alterarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -102,7 +101,8 @@
             this.adicionarProdutoToolStripMenuItem,
             this.retirarProdutoToolStripMenuItem,
             this.pesquisarToolStripMenuItem,
-            this.cadastrarToolStripMenuItem});
+            this.cadastrarToolStripMenuItem,
+            this.alterarToolStripMenuItem});
             this.ferramentasToolStripMenuItem.Name = "ferramentasToolStripMenuItem";
             this.ferramentasToolStripMenuItem.Size = new System.Drawing.Size(84, 20);
             this.ferramentasToolStripMenuItem.Text = "Ferramentas";
@@ -174,28 +174,12 @@
             this.label_Ret_add.Text = "Operação - ";
             this.label_Ret_add.Click += new System.EventHandler(this.label_Ret_add_Click);
             // 
-            // MinReposi_box
-            // 
-            this.MinReposi_box.Location = new System.Drawing.Point(701, 61);
-            this.MinReposi_box.Name = "MinReposi_box";
-            this.MinReposi_box.Size = new System.Drawing.Size(75, 20);
-            this.MinReposi_box.TabIndex = 23;
-            // 
             // Quantidade_box
             // 
             this.Quantidade_box.Location = new System.Drawing.Point(633, 61);
             this.Quantidade_box.Name = "Quantidade_box";
             this.Quantidade_box.Size = new System.Drawing.Size(62, 20);
             this.Quantidade_box.TabIndex = 22;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(698, 45);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(78, 13);
-            this.label6.TabIndex = 21;
-            this.label6.Text = "Min Reposição";
             // 
             // label5
             // 
@@ -308,6 +292,13 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // alterarToolStripMenuItem
+            // 
+            this.alterarToolStripMenuItem.Name = "alterarToolStripMenuItem";
+            this.alterarToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.alterarToolStripMenuItem.Text = "Alterar";
+            this.alterarToolStripMenuItem.Click += new System.EventHandler(this.alterarToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -317,9 +308,7 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.MinReposi_box);
             this.Controls.Add(this.Quantidade_box);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.PrecoUni_box);
             this.Controls.Add(this.label4);
@@ -359,9 +348,7 @@
         private System.Windows.Forms.ToolStripMenuItem retirarProdutoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastrarToolStripMenuItem;
         private System.Windows.Forms.Label label_Ret_add;
-        private System.Windows.Forms.TextBox MinReposi_box;
         private System.Windows.Forms.TextBox Quantidade_box;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox PrecoUni_box;
         private System.Windows.Forms.Label label4;
@@ -377,6 +364,7 @@
         private System.Windows.Forms.ToolStripMenuItem pesquisarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem importarToolStripMenuItem;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.ToolStripMenuItem alterarToolStripMenuItem;
     }
 }
 
