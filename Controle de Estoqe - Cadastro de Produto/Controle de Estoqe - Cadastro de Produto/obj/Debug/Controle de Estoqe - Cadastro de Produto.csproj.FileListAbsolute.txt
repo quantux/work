@@ -1,0 +1,22 @@
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\bin\Debug\Controle de Estoqe - Cadastro de Produto.exe.config
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\bin\Debug\Controle de Estoqe - Cadastro de Produto.exe
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\bin\Debug\Controle de Estoqe - Cadastro de Produto.pdb
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Cadastrar.resources
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Form1.resources
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Properties.Resources.resources
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csproj.GenerateResource.Cache
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.exe
+C:\Users\nicol\Desktop\PUC\2- Periodo\POO\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.pdb
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\bin\Debug\Controle de Estoqe - Cadastro de Produto.exe.config
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\bin\Debug\Controle de Estoqe - Cadastro de Produto.exe
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\bin\Debug\Controle de Estoqe - Cadastro de Produto.pdb
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csprojResolveAssemblyReference.cache
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Cadastrar.resources
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Form1.resources
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Properties.Resources.resources
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csproj.GenerateResource.cache
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csproj.CoreCompileInputs.cache
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.exe
+C:\Users\mthsf\Downloads\Trabalho Final\Trabalho Final\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.pdb
