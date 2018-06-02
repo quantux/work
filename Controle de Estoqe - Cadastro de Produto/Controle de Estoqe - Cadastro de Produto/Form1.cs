@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -48,21 +49,21 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
         }
         private void cadastrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Cadastrar cadastrar = new Cadastrar();
+            Cadastrar cadastrar = new Cadastrar(this.gridView);
             cadastrar.BackColor = Color.FromArgb(169, 169, 169);
             cadastrar.atualiza();
             cadastrar.ShowDialog();
         }
         private void alterarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Cadastrar cadastrar = new Cadastrar();
+            Cadastrar cadastrar = new Cadastrar(this.gridView);
             cadastrar.BackColor = Color.FromArgb(180, 180, 180);
             cadastrar.atualiza();
             cadastrar.ShowDialog();
         }
         private void cadastrar_produto_Click(object sender, EventArgs e)
         {
-            Cadastrar cadastrar = new Cadastrar();
+            Cadastrar cadastrar = new Cadastrar(this.gridView);
             cadastrar.BackColor = Color.FromArgb(169, 169, 169);
             cadastrar.atualiza();
             cadastrar.ShowDialog();
@@ -70,11 +71,10 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
         // Alterar cadastro - abre o mesmo menu mas deve abrir já com os dados
         private void button4_Click(object sender, EventArgs e)
         {
-            Cadastrar cadastrar = new Cadastrar();
+            Cadastrar cadastrar = new Cadastrar(this.gridView);
             cadastrar.BackColor = Color.FromArgb(180, 180, 180);
             cadastrar.atualiza();
             cadastrar.ShowDialog();
-            
         }
         private void label_Ret_add_Click(object sender, EventArgs e)
         {
@@ -85,6 +85,14 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
 
         }
 
-    
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void Código_box_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,28 @@
+<estoque>
+	<produto cat="1">
+		<codigo>1</codigo>
+		<nome>Macarrão</nome>
+		<preco></preco>
+		<quantidade></quantidade>
+	</produto>
+	
+	<produto cat="2">
+		<codigo>1</codigo>
+		<nome>Macarrão</nome>
+		<preco></preco>
+		<quantidade></quantidade>
+	</produto>
+	
+	<produto cat="3">
+		<codigo>1</codigo>
+		<nome>Macarrão</nome>
+		<preco></preco>
+		<quantidade></quantidade>
+	</produto>
+</estoque>
+
+<categorias>
+	<categoria id="1">
+		<nome>Alimentício</nome>
+	</categoria>
+</categorias>
