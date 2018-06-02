@@ -25,6 +25,14 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
         private void button1_Click(object sender, EventArgs e)
         {
             label_Ret_add.Text = "Operação - Retirar produto";
+
+            // decrementa a quantidade do(s) produto(s)
+            foreach (DataGridViewRow row in this.gridView.SelectedRows)
+            {
+                int qtd = int.Parse(row.Cells[4].Value.ToString());
+                qtd--;
+                row.Cells[4].Value = qtd;
+            }
         }
         private void button3_Click(object sender, EventArgs e)
         {
@@ -33,6 +41,14 @@ namespace Controle_de_Estoqe___Cadastro_de_Produto
         private void button2_Click(object sender, EventArgs e)
         {
             label_Ret_add.Text = "Operação - Adicionar produto";
+
+            // incrementa a quantidade do(s) produto(s)
+            foreach (DataGridViewRow row in this.gridView.SelectedRows)
+            {
+                int qtd = int.Parse(row.Cells[4].Value.ToString());
+                qtd++;
+                row.Cells[4].Value = qtd;
+            }
         }
         // Butons do menu
         private void adicionarProdutoToolStripMenuItem_Click(object sender, EventArgs e)
