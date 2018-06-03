@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.CadastrarConfir = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.Categoria_box = new System.Windows.Forms.ComboBox();
@@ -41,17 +40,9 @@
             this.label6 = new System.Windows.Forms.Label();
             this.Quantidade_box = new System.Windows.Forms.TextBox();
             this.MinReposi_box = new System.Windows.Forms.TextBox();
+            this.CadastrarConfir = new System.Windows.Forms.Button();
+            this.modoEdicao = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // CadastrarConfir
-            // 
-            this.CadastrarConfir.Location = new System.Drawing.Point(108, 278);
-            this.CadastrarConfir.Name = "CadastrarConfir";
-            this.CadastrarConfir.Size = new System.Drawing.Size(75, 23);
-            this.CadastrarConfir.TabIndex = 0;
-            this.CadastrarConfir.Text = ",,,";
-            this.CadastrarConfir.UseVisualStyleBackColor = true;
-            this.CadastrarConfir.Click += new System.EventHandler(this.CadastrarConfir_Click);
             // 
             // label1
             // 
@@ -152,11 +143,30 @@
             this.MinReposi_box.Size = new System.Drawing.Size(121, 20);
             this.MinReposi_box.TabIndex = 11;
             // 
+            // CadastrarConfir
+            // 
+            this.CadastrarConfir.Location = new System.Drawing.Point(108, 278);
+            this.CadastrarConfir.Name = "CadastrarConfir";
+            this.CadastrarConfir.Size = new System.Drawing.Size(75, 23);
+            this.CadastrarConfir.TabIndex = 0;
+            this.CadastrarConfir.Text = ",,,";
+            this.CadastrarConfir.UseVisualStyleBackColor = true;
+            this.CadastrarConfir.Click += new System.EventHandler(this.CadastrarConfir_Click);
+            // 
+            // modoEdicao
+            // 
+            this.modoEdicao.Location = new System.Drawing.Point(108, 175);
+            this.modoEdicao.Name = "modoEdicao";
+            this.modoEdicao.Size = new System.Drawing.Size(121, 20);
+            this.modoEdicao.TabIndex = 12;
+            this.modoEdicao.Visible = false;
+            // 
             // Cadastrar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(294, 313);
+            this.Controls.Add(this.modoEdicao);
             this.Controls.Add(this.MinReposi_box);
             this.Controls.Add(this.Quantidade_box);
             this.Controls.Add(this.label6);
@@ -178,8 +188,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button CadastrarConfir;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox Categoria_box;
@@ -192,5 +200,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox Quantidade_box;
         private System.Windows.Forms.TextBox MinReposi_box;
+        private System.Windows.Forms.Button CadastrarConfir;
+        private System.Windows.Forms.TextBox modoEdicao;
     }
 }

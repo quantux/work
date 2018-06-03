@@ -41,4 +41,4 @@ C:\Users\mthsf\Desktop\workspace\work\Controle de Estoqe - Cadastro de Produto\C
 C:\Users\mthsf\Desktop\workspace\work\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.csproj.CoreCompileInputs.cache
 C:\Users\mthsf\Desktop\workspace\work\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.exe
 C:\Users\mthsf\Desktop\workspace\work\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle de Estoqe - Cadastro de Produto.pdb
-C:\Users\mthsf\Desktop\workspace\work\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Produto.resources
+C:\Users\mthsf\Desktop\workspace\work\Controle de Estoqe - Cadastro de Produto\Controle de Estoqe - Cadastro de Produto\obj\Debug\Controle_de_Estoqe___Cadastro_de_Produto.Cadastrar.resources

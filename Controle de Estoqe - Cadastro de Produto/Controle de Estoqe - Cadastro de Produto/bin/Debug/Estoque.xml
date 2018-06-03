@@ -1,28 +1,21 @@
-<estoque>
-	<produto cat="1">
-		<codigo>1</codigo>
-		<nome>Macarrão</nome>
-		<preco></preco>
-		<quantidade></quantidade>
-	</produto>
-	
-	<produto cat="2">
-		<codigo>1</codigo>
-		<nome>Macarrão</nome>
-		<preco></preco>
-		<quantidade></quantidade>
-	</produto>
-	
-	<produto cat="3">
-		<codigo>1</codigo>
-		<nome>Macarrão</nome>
-		<preco></preco>
-		<quantidade></quantidade>
-	</produto>
-</estoque>
-
-<categorias>
-	<categoria id="1">
-		<nome>Alimentício</nome>
-	</categoria>
-</categorias>
+<?xml version="1.0"?>
+<ArrayOfProduto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produto>
+    <codigo>1</codigo>
+    <nome>1</nome>
+    <categoria>1</categoria>
+    <preco>1</preco>
+    <qtd>1</qtd>
+    <minReposicao>1</minReposicao>
+    <todayDate>02/06/2018</todayDate>
+  </Produto>
+  <Produto>
+    <codigo>2</codigo>
+    <nome>1231</nome>
+    <categoria>2</categoria>
+    <preco>22</preco>
+    <qtd>72</qtd>
+    <minReposicao>2</minReposicao>
+    <todayDate>02/06/2018</todayDate>
+  </Produto>
+</ArrayOfProduto>
